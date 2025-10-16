@@ -3,7 +3,7 @@
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue?logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
 
 ## Overview
-This PowerShell script retrieves a computer's serial number and service tag.
+This PowerShell script retrieves the serial number and service tag of computers per site group.
 
 It’s useful for internal IT inventory, hardware tracking, and support automation.
 
